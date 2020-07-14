@@ -22,7 +22,7 @@ body {
   flex-direction: column;
 
   .form-search {
-    padding: 60px 60px 60px 120px;
+    padding: 40px 40px 40px 120px;
     border: none;
     font-size: 2.6em;
     box-shadow: none;
@@ -38,7 +38,7 @@ body {
   &:before {
     content: '\F002';
     position: absolute;
-    top: 35px;
+    top: 40px;
     left: 60px;
     font-family: FontAwesome;
     font-size: 2.6em;

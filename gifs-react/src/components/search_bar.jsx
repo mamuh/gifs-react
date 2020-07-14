@@ -17,7 +17,7 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <input type="text" id="kraio" placeholder="Search for a gif..." autoComplete="off" className="form-search form-control" onChange={this.handleUpdate} />
+      <input type="text" placeholder="Search for a gif..." autoComplete="off" className="form-search form-control" onChange={this.handleUpdate} />
     );
   }
 }
